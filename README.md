@@ -68,10 +68,11 @@ Max Lamparth, Declan Grabb, Amy Franks, Scott Gershan, Kaitlyn N. Kunstman, Aaro
 
 ### BibTeX
 ```bibtex
-@article{lamparth2025movingmedicalexamquestions,
-  title={Moving Beyond Medical Exam Questions: A Clinician-Annotated Dataset of Real-World Tasks and Ambiguity in Mental Healthcare},
-  author={Lamparth, Max and Grabb, Declan and Franks, Amy and Gershan, Scott and Kunstman, Kaitlyn N. and Lulla, Aaron and Drummond Roots, Monika and Sharma, Manu and Shrivastava, Aryan and Vasan, Nina and Waickman, Colleen},
-  journal={arXiv preprint arXiv:2502.16051},
-  year={2025},
-  url={https://arxiv.org/abs/2502.16051}
+@inproceedings{
+lamparth2026moving,
+title={Moving Beyond Medical Exams: A Clinician-Annotated Fairness Dataset of Real-World Tasks and Ambiguity in Mental Healthcare},
+author={Max Lamparth and Declan Grabb and Amy Franks and Scott Gershan and Kaitlyn N Kunstman and Aaron Lulla and Monika Drummond Roots and Manu Sharma and Aryan Shrivastava and Nina Vasan and Colleen Waickman},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=tSy7OtONsg}
 }
