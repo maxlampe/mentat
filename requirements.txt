@@ -63,7 +63,7 @@ krippendorff==0.8.0
 MarkupSafe==3.0.2
 matplotlib==3.10.0
 matplotlib-inline==0.1.7
-mistune==3.1.0
+mistune==3.3.0
 multidict==6.1.0
 multiprocess==0.70.16
 nbclient==0.10.2
