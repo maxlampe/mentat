@@ -89,7 +89,7 @@ psutil==6.1.1
 ptyprocess==0.7.0
 pure_eval==0.2.3
 pyAesCrypt==6.1.1
-pyarrow==19.0.0
+pyarrow==23.0.1
 pycparser==2.22
 pydantic==2.10.6
 pydantic_core==2.27.2
